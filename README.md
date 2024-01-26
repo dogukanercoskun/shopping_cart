@@ -1,4 +1,8 @@
-# React + Vite
+# React + Vite+ Tailwind CSS
+
+
+Üreteken Akedemi Programı çerçevesinde yüz yüze etkinlikte verilen proje kapsamında yapılmıştır.
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
